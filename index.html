@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset=utf-8>
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <meta name=description content="Thoughts of a man interested in science, cryptography, theology, and people.">
+    <link rel="stylesheet" href="fonts.css">
+    <link rel="stylesheet" href="layout.css">
+    <link rel="stylesheet" href="nav.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <section>
+  
+      <header>
+        <h1><a href="http://davistobias.com" title="Tobias Davis" rel="home">Tobias Davis</a></h1>
+        <h2>Thoughts of a man interested in science, cryptography, theology, and people.</h2>
+        <img role="banner" alt="View of the Loveland Pass, in Colorado, USA." src="http://davistobias.com/files/2012/05/cropped-Trail-on-Loveland-Pass1.jpg">
+      </header>
+  
+      <nav role="navigation" title="Main site navigation.">
+        <ul>
+          <li><a href="#" class="active" rel="home" title="Return to main page of site.">Home</a></li>
+          <li><a href="#/about" title="About the site author.">Something about me.</a></li>
+          <li><a href="#/contact" title="Contact the site author.">Talk to me.</a></li>
+          <li><a href="#/posts" title="A list of all blog posts.">All posts.</a>
+            <ul id="sidebar"></ul>
+          </li>
+        </ul>
+      </nav>
+
+      <article id="main"></article>
+
+      <footer>
+        <p>Inspired by <a href="https://wordpress.org/themes/twentyeleven">Twenty Eleven</a>, made with love by <a href="http://tobiaslabs.com">Tobias Labs</a>.</p>
+      </footer>
+
+    </section>
+
+<script id="template-menu" type="text/ractive">
+	{{#postList}}
+		<li><a href="{{pathPrefix}}{{pagePathPrefix}}{{filename}}">{{title}}</a></li>
+	{{/postList}}
+</script>
+
+<script id="template-main" type="text/ractive">
+  <header>
+    <h1>{{metadata.title}}</h1>
+    <h2>Posted on <time datetime="{{metadata.date}}">{{metadata.title}}</time> by <a rel="author" title="About the author." href="#/about">{{metadata.author}}</a></h2>
+  </header>
+  {{{html}}}
+</script>
+
+<script src="config.js"></script>
+<script src="//noddity.com/js/vendor/satnav.js"></script>
+<script src="//noddity.com/js/build.js"></script>
+
+  </body>
+
+</html>
