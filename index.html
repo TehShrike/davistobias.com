@@ -47,14 +47,16 @@
 <script id="template-main" type="text/ractive">
   <header>
     <h1>{{metadata.title}}</h1>
+    {{#metadata.date}}
     <h2>Posted on <time datetime="{{metadata.date}}">{{metadata.title}}</time> by <a rel="author" title="About the author." href="#/about">{{metadata.author}}</a></h2>
+    {{/metadata.date}}
   </header>
   {{{html}}}
 </script>
 
 <script src="config.js"></script>
-<script src="//noddity.com/js/vendor/satnav.js"></script>
-<script src="//noddity.com/js/build.js"></script>
+<script src="satnav.js"></script>
+<script src="build.js"></script>
 
   </body>
 
