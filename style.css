@@ -67,6 +67,7 @@ blockquote:before {
   color: #DDDDDD;
 }
 
+/*
 blockquote:after {
   content: "”";
   font-size: 3em;
@@ -74,6 +75,7 @@ blockquote:after {
   right: -15px;
   color: #DDDDDD;
 }
+*/
 
 blockquote cite {
   font-style: normal;
