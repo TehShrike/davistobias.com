@@ -1,0 +1,67 @@
+html {
+  font-size: 1.5em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "cantarellregular", "Lucida Sans Unicode","Lucida Sans","Geneva","Verdana","sans-serif";
+}
+
+a {
+  color: #1982d1;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  background-color: #EEEEEE;
+}
+
+q {
+  font-style: italic;
+}
+
+q:before {
+  content: "“";
+}
+
+q:after {
+  content: "”";
+}
+
+blockquote {
+  font-style: italic;
+  position: relative;
+}
+
+blockquote:before {
+  content: "“";
+  font-size: 3em;
+  position: absolute;
+  top: -15px;
+  left: -35px;
+  color: #DDDDDD;
+}
+
+blockquote:after {
+  content: "”";
+  font-size: 3em;
+  position: absolute;
+  right: -15px;
+  color: #DDDDDD;
+}
+
+blockquote cite {
+  font-style: normal;
+}
+
+blockquote cite:before {
+  content: "(";
+  padding-left: 0.4em;
+}
+
+blockquote cite:after {
+  content: ")";
+}
