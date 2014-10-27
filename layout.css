@@ -1,0 +1,92 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 20px 60px;
+  background-color: #E2E2E2;
+  font-family: "sina_novaregular", "Georgia","Cambria","Times New Roman","Times","serif";
+}
+
+section {
+  background-color: #FFFFFF;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+section > header {
+  border-top: #BBBBBB solid 2px;
+  overflow-x: hidden;
+  display: block;
+}
+
+section > header a {
+  text-decoration: none;
+}
+
+section > header h1,
+section > header h2 {
+  padding: 0 60px;
+  margin: 0;
+}
+
+section > header h1 {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+section > header h1 a {
+  color: #000000;
+}
+
+section > header h1 a:hover {
+  color: #1982d1;
+}
+
+section > header h2 {
+  margin-bottom: 20px;
+  font-size: 0.7em;
+  font-weight: 300;
+  color: #7a7a7a;
+}
+
+section > header img {
+  display: block;
+  height: 240px;
+}
+
+section > article {
+  padding: 0 60px;
+}
+
+section > article header h1 {
+  font-size: 1.6em;
+  margin-bottom: 0;
+}
+
+section > article header h2 {
+  margin-top: 0;
+  font-size: 0.8em;
+  font-weight: 300;
+  color: #7a7a7a;
+}
+
+section > footer {
+  border-top: #BBBBBB solid 2px;
+  background-color: #F6F6F6;
+  padding: 0px 60px;
+  text-align: center;
+}
+
+section > footer p {
+  color: #BBBBBB;
+  padding: 5px 60px;
+  margin: 0;
+  font-size: 0.6em;
+}
+
+section > footer a {
+  color: #6BAFE3;
+}
