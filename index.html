@@ -19,16 +19,7 @@
         <img role="banner" alt="View of the Loveland Pass, in Colorado, USA." src="http://davistobias.com/files/2012/05/cropped-Trail-on-Loveland-Pass1.jpg">
       </header>
   
-      <nav role="navigation" title="Main site navigation.">
-        <ul>
-          <li><a href="#" class="active" rel="home" title="Return to main page of site.">Home</a></li>
-          <li><a href="#/about" title="About the site author.">Something about me.</a></li>
-          <li><a href="#/contact" title="Contact the site author.">Talk to me.</a></li>
-          <li><a href="#/posts" title="A list of all blog posts.">All posts.</a>
-            <ul id="sidebar"></ul>
-          </li>
-        </ul>
-      </nav>
+      <nav role="navigation" title="Main site navigation." id="sidebar"></nav>
 
       <article id="main"></article>
 
@@ -39,9 +30,18 @@
     </section>
 
 <script id="template-menu" type="text/ractive">
+  <ul>
+    <li><a href="/" class="active" rel="home" title="Return to main page of site.">Home</a></li>
+    <li><a href="{{pathPrefix}}{{pagePathPrefix}}about" title="About the site author.">Something about me.</a></li>
+    <li><a href="{{pathPrefix}}{{pagePathPrefix}}contact" title="Contact the site author.">Talk to me.</a></li>
+    <li><a href="#/posts" title="A list of all blog posts.">All posts.</a>
+      <ul>
 	{{#postList}}
-		<li><a href="{{pathPrefix}}{{pagePathPrefix}}{{filename}}">{{title}}</a></li>
+        <li><a href="{{pathPrefix}}{{pagePathPrefix}}{{filename}}">{{title}}</a></li>
 	{{/postList}}
+      </ul>
+    </li>
+  </ul>
 </script>
 
 <script id="template-main" type="text/ractive">
