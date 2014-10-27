@@ -1,0 +1,30 @@
+section > nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 40px;
+  background-color: #252525;
+  background: linear-gradient(#252525 0%, #101010 100%);
+}
+
+section > nav li {
+  display: inline-block;
+  padding: 6px 12px;
+}
+
+section > nav li:hover {
+  background-color: #EEEEEE;
+  background: linear-gradient(#EEEEEE 0%, #C9C9C9 100%);
+}
+
+section > nav li:hover a {
+  color: #252525;
+}
+
+section > nav a {
+  text-decoration: none;
+  color: #EEEEEE;
+}
+
+section > nav .active {
+  font-weight: bold;
+}
