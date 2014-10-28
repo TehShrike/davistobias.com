@@ -1,4 +1,4 @@
-section > nav ul {
+nav.menu ul {
   list-style: none;
   margin: 0;
   padding: 0 40px;
@@ -6,25 +6,37 @@ section > nav ul {
   background: linear-gradient(#252525 0%, #101010 100%);
 }
 
-section > nav li {
+nav.menu li {
   display: inline-block;
   padding: 6px 12px;
 }
 
-section > nav li:hover {
+nav.menu li:hover {
   background-color: #EEEEEE;
   background: linear-gradient(#EEEEEE 0%, #C9C9C9 100%);
 }
 
-section > nav li:hover a {
+nav.menu li:hover a {
   color: #252525;
 }
 
-section > nav a {
+nav.menu a {
   text-decoration: none;
   color: #EEEEEE;
 }
 
-section > nav .active {
+nav.menu .active {
   font-weight: bold;
+}
+
+nav.posts h1 {
+  background-color: #252525;
+  margin: 0;
+  padding: 10px 40px;
+  color: #EEEEEE;
+  font-family: "sina_novaregular", "Georgia","Cambria","Times New Roman","Times","serif";
+}
+
+nav.posts ul {
+  margin: 10px 40px;
 }
