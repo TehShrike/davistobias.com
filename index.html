@@ -29,7 +29,7 @@
 
       <article id="main"></article>
 
-      <nav role="navigation" title="Listing of all posts." id="sidebar"></nav>
+      <div role="navigation" title="Listing of all posts." id="sidebar"></div>
 
       <footer>
         <p>Inspired by <a href="https://wordpress.org/themes/twentyeleven">Twenty Eleven</a>, made with love by <a href="http://tobiaslabs.com">Tobias Labs</a>.</p>
@@ -39,11 +39,11 @@
 
 <script id="template-menu" type="text/ractive">
   <h3>Posts</h3>
-	<ol>
-		{{#postList}}
-			<li><a href="{{pathPrefix}}{{pagePathPrefix}}{{filename}}">{{title}}</a></li>
-		{{/postList}}
-	</ol>
+  <ol>
+    {{#postList}}
+    <li><a href="{{pathPrefix}}{{pagePathPrefix}}{{filename}}">{{title}}</a></li>
+    {{/postList}}
+  </ol>
 </script>
 
 <script id="template-main" type="text/ractive">
