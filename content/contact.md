@@ -16,7 +16,7 @@ Here are some ways to get in touch:
   please see the [Github repo](https://github.com/saibotsivad/saibotsivad.github.io/)
   and create pull requests or new issues. I should respond pretty quickly there.
 7. Please ask before sending physical mail. I have several physical mailing
-  addresses online--either one will probably get to me within a few months.
+  addresses online, but either one will probably get to me within a few months.
 
 If you share a liking for good whiskey and deep conversation about
 the things in life that matter, I'm sure we'd get along splendidly.
