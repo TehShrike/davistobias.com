@@ -52,7 +52,11 @@
   <header>
     <h1>{{metadata.title}}</h1>
     {{#metadata.date}}
-    <h2>Posted on <time datetime="{{metadata.date}}">{{metadata.title}}</time> by <a rel="author" title="About the author." href="#/about">{{metadata.author}}</a></h2>
+    <h2>Posted on <time datetime="{{metadata.date}}">{{metadata.date}}</time>
+      {{#metadata.author}}
+      by <a rel="author" title="About the author." href="#!/post/about.md">{{metadata.author}}</a>
+      {{/metadata.author}}
+    </h2>
     {{/metadata.date}}
   </header>
   {{{html}}}
