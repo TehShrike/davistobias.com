@@ -4,7 +4,7 @@ noddityConfig = {
 	editLink: 'https://github.com/saibotsivad/saibotsivad.github.io/edit/master/content/',
 	errorPage: '404.md',
 	pathPrefix: '#!/',
-	pagePathPrefix: 'post/',
+	pagePathPrefix: '',
 	debug: false,
 	sidebar: null
 }

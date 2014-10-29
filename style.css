@@ -2,6 +2,10 @@ html {
   font-size: 1.5em;
 }
 
+body {
+  font-family: "sina_novaregular", "Georgia","Cambria","Times New Roman","Times","serif";
+}
+
 h1,h2,h3,h4,h5,h6 {
   font-family: "cantarellregular", "Lucida Sans Unicode","Lucida Sans","Geneva","Verdana","sans-serif";
 }
