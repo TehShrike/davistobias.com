@@ -33,4 +33,4 @@ beard, condensing and freezing to tiny droplets of ice. These crystals
 growing on my face remind me in a compelling way of my manhood, and of
 the Creators divine gift of the beard.
 
-![](images/beard-with-snow.jpg "Beard with snow")
+![](content/images/beard-with-snow.jpg "Beard with snow")
