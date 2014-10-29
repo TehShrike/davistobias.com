@@ -1,6 +1,5 @@
 title: Economics FAQ: How much do I deserve?
 update: 2013-01-07
-author: Tobias
 
 There is a question that comes up frequently, and it is this:
 
