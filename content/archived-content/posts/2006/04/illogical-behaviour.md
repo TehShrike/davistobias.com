@@ -1,0 +1,16 @@
+title: Illogical behaviour.
+date: 2006-04-27 01:24
+excerpt: 
+categories: blog
+
+I have been reflecting on some things today, ever since someone told me they don't think abortion is wrong. I didn't respond to them, but I have been thinking about how people seem to think certain immoral behavior my be acceptable at times. For instance, consider the illogicality people have when they say it is wrong to kill an animal, and then say it is acceptable to kill a fetus. I have been thinking of how irrational people are, specifically, that people can have two opposing beliefs and be okay with that. Or how people can have an unfounded morality, they say one thing is wrong but have no reasoning or basis behind it. "It's just wrong!" is something I am hearing far too often.
+
+Let me tell you a piece of rhetoric I hear from the pro-choice side far too often: "A woman should have a right to choose." False, false, false. If you simply reword this statement into it's basic form, it would say: "One person has the right to choose when someone dies." Which is quite silly, don't you think? If your daughter came to you and said that Grandma was getting on her nerves, can't I just kill her, do you think your response would be "My daughter has the right to choose." I hope your response is different.
+
+"You are not looking at the feelings of the mother." True, I don't care about the mothers feelings, when did we decide that because something makes us feel bad that we could get rid of it? Hey, it's America right! What you don't want, you throw away, like cardboard and soda cans we just pitch them into the trash. If I don't sound very sensitive, it's because I am not willing to be sensitive to someones feelings over the life of another human being. What would your response be if I said "You just aren't looking at the feelings of the terrorists who crashed into the twin towers, don't they have a right to choose?" Come on now, who has the right to choose to end someone's life?
+
+"It's my body, it's my choice." Wrong, wrong, dreadfully wrong. The body inside of you is not yours, it is not you. This is easily demonstrated by DNA testing, the DNA of the newly conceived is not the same from the very instant of conception. Another example I have heard is that an infant can have a penis, but a woman doesn't have one. This is a very obvious proof that what is inside of you is not your own body. But secondly, you can't do anything you want to your body, the law prohibits many things, such as illicit drugs. It's not your body, and you can't do whatever you want with your body anyway.
+
+What it boils down to eventually is that the pro-choice crowd says that an unborn person is not human, or is not a person. First of all, to say someone can be a human but not a person is irrational. It's a simple word game to obfuscate the fact that every human is a human. Irrational behavior makes me mad. But also, to say that an unborn child is not a human is also biologically illogical. If it isn't a human, what is it? A dog? A cat? Biological law says from humans come humans, a thing descended from a human is in fact human. Or again, an unborn child turns into a full fledged adult, at what point was it ever not human? Never. From the moment it acquired DNA from male and female, it became it's own identity and became human.
+
+Irrational people make me mad.

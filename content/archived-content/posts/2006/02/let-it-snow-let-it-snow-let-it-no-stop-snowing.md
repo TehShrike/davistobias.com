@@ -1,0 +1,6 @@
+title: Let it snow, let it snow, let it-no stop snowing!!!
+date: 2006-02-19 08:13
+excerpt: 
+categories: blog
+
+Yesterday it snowed. Not a whole lot, you understand, just a few inches. But now it's pretty cold, cold as in zero or negative degrees, cold as in I froze my water pipes cold. Umm. So yeah. Working out at this camp, they provide you with free housing and utilities. A good deal you say? A very good deal I say. But, always some cons are found with the pro's. This house I live in is actually a trailer, so it's not mouse-proof (in fact, it acts as a magnet to mice, a problem I am fixing with a "mouse house de-magnetizer" product), and also it's not very insulative. And when I say not very insulative, I mean, if you feel the walls, they are already cold enough to keep your bee--um soda quite chilled. Also, there just happens to be a little water pipe which runs practically on the outside of the trailer, so it freezes quite nicely. So nicely in fact, that it did. I didn't tell maintenance yet, mostly I am hoping the pipe thawed out with the "warm" weather and electric heater I applied to it. I have to go now.

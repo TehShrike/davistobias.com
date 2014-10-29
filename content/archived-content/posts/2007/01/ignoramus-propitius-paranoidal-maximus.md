@@ -1,0 +1,6 @@
+title: Ignoramus Propitius Paranoidal Maximus.
+date: 2007-01-32 23:28
+excerpt: 
+categories: blog
+
+So here is the deal folks, I am in classes: Physics and Calculus 2\. I am setting into motion various plans for the end of the summer, for schooling, housing, job, etc... So far I have come up with a couple ideas for housing, one of them being to purchase a "fixer-upper" in Lincoln, renovate it and rent some of the rooms out to pay for taxes, loan fees, utilities, etc... Problem with this is that Lincoln doesn't have much for "fixer-uppers" in the four bedroom or larger size, and even those are 8.0x10^4 dollars or so. The other thing I have been contemplating is to live with my older brother and his family, they have a large basement area which would really work out well I think, and I don't mind the kids. Here is another thing going on: I am trying to get a vehicle. My jeep is basically crapped out, transmission wise, and I would like something more fuel efficient for school anyway, something like a Geo Metro or Ford Festiva would be great. Also, when I do move to Lincoln, if I purchase a house and renovate it, I would need a pick-up truck quite often, so I might as well find a small one now I guess. Ooh! What I really want is a Ford Ranger, 1983! Bam sucka!

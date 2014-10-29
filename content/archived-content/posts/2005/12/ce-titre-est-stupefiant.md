@@ -1,0 +1,8 @@
+title: Ce titre est stupéfiant
+date: 2005-12-17 22:35
+excerpt: 
+categories: blog
+
+Greetings fair ones. I just finished reading "The Fellowship of the Ring" once again. It seems to me that I read it once every few years, and thoroughly enjoy it each time. Although this time I came to the last page where Aragorn says "I don't know what part in this you played, Boromir, but follow those hobbits quick, there is strange work afoot!" And then they all run around trying to find Frodo, who slipped away to the boats. Then Sam says something like "Think Sam, your legs are no good so use your head." And runs down to the boats, sees one slipping into the water without anyone in it and... THATS IT!!!!!!!! The rest of the pages are missing! AUGH! How does it all end! Does Boromir find the hobbits? Do the hobbits get killed from the Orcs who are close by? Does the Nazgul or one of the Nine Black Riders come at them? Oh dear!
+
+Then I decided that I would read through the Bible again, since it has been quite a while. Just before I read the "Fellowship" I read most of the Silmarillion, which is the complete history of middle earth, the Varda, Illuvitar, the Elves, etc... But it is written in a very "mysterious" tone. Rather, it uses an older style of English or something. Anyway, I started in Genesis and read about 20 chapters in one sitting. The Bible is really a captivating piece to read, especially where it says that man was created before the plants. What? But I digress.

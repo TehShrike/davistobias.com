@@ -1,0 +1,8 @@
+title: Wierd thing happened last night
+date: 2006-08-02 19:39
+excerpt: 
+categories: blog
+
+So the other night I had a really weird experience trying to fall asleep. I was lying on my stomach, which I usually don't do but it was feeling pretty comfortable just about then, meanwhile I was drifting in and out of sleep, it was one of those nights where I just couldn't get sleeping--something about certain cycles of the moon. So there I am, just drifting around, and I get a muscle twitch. Not to uncommon while awake, I often have spasms of pain or sometimes where my hand will twitch for several minutes and I have never been able to figure out how to get it to stop. So like maybe my leg twitches, then my arm, then all of a sudden my whole body is doing this twitching deal where if I didn't know better I would say I was having a seizure except I was completely aware the whole time of what was going on. So basically I sat there for about ten minutes, trying to figure out what was going on, not really caring about it enough to get up and stretch which probably would have made it stop. I noticed that I have this tendency to try and regain control of these spasms by mental faculty alone, so if my finger is twitching I will try and regain control with my mind. Anyway, after ten minutes the twitching stopped and so I fell asleep. That is the end of the story I guess.
+
+I also caught three mice just last night, two on a sticky trap and the other one must have got caught on the sticky trap and ran under my furnace. Dang, the house is going to start smelling funny I bet.

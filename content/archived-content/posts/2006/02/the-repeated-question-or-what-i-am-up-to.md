@@ -1,0 +1,10 @@
+title: The repeated question, or: What I am up to.
+date: 2006-02-08 05:21
+excerpt: 
+categories: blog
+
+In response to the many letters saying "What are you up to these days?" I crafted this response:
+
+I am at Maranatha Bible Camp. I am the Kitchen Manager. In response to the "So you took Ron's job?" question, the answer is, in a sense yes. I work here full-time but am considered volunteer, this is a support based ministry. Yes, I do like it here, and yes, I do get lonely at times. I am in school at Mid-Plains Community College, right now I am taking a trigonometry class and a biology class. I am planning on getting a degree in atomic physics, if the Lord wills it. No, Mid-Plains doesn't have that degree so I am planning on transferring to the University in Lincoln, I have noticed that God has different plans a lot of times, I wish I could see them better. I spend my days working in the kitchen here, doing some small bit of homework, and practicing archery. In my spare time I have been studying my favorite topics: Atomic physics and inter-dimensional perceptions, that is, this three dimensional illusion that we perceive.
+
+I don't know what's going on, but lately it seems that God has been showing Himself to me, it is a bit frightening. I have been studying scripture, reading through the Bible before summer starts is one goal. Lately I have been noticing the war of the flesh more, that is, the war against fleshly desires, as Paul say, is raging on but I don't think I noticed quite so much before now. Paul said that he buffet's his body, that is, he brings his body into complete submission, I wish to be more like Paul. I have been watching the secular world around me and how it is slowly influencing Christianity, it is unfortunate and I think that to fight it people need to understand that it <span style="font-style: italic;">is</span> a war and that the world <span style="font-style: italic;">is</span> against God. Anyway, I have to go back to cooking.

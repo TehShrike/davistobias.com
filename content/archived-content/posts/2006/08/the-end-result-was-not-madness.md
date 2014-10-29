@@ -1,0 +1,10 @@
+title: The end result was not madness
+date: 2006-08-10 17:45
+excerpt: 
+categories: blog
+
+After staying awake all night, I came in to work at 9AM and worked a half day until about 4PM. Later I went and did other stuff and hung out, all standard fare items, and finally decided to go to sleep about 1AM. So, all said and done, I stayed awake for 44 hours straight and here is the end result: I was not tired. I didn't feel "dizzy" or whatever that you usually feel from lack of sleep, I didn't feel emotionally worn out or anything like that. I kept a close eye on my emotions and how I treated people and I don't think it was influenced at all by lack of sleep. In mental focus, I didn't lose any--then again, I haven't been able to focus very well for several weeks, I think this is from improper nutrition and lack of proper physical exertion. After work, towards the end of the experiment, I was looking at the computer and I almost dozed off a couple times, but when I noticed this I was able to "wake up" again through mental persuasion.
+
+All in all, I think I could get away from sleeping for perhaps one night a week, maybe two. So far, I haven't been able to sleep in and I have been getting to bed around 1AM as usual, still no side effects. I don't think I could get away with no sleep, but perhaps once a week I could do without and have no ill effects.
+
+Imagine if I could do this: An extra 8 or so hours of time possible each week, adding up to 18 extra days per year! Now, out here is an ideal location for this, since I am not tempted to go into town and spend money or otherwise non-productive things. Everything in town is closed at night, even Wal-Mart is pretty weird at night, so I sort of have to stay home. This time then, was spent by me writing a letter and doing some further reading. I think that ideally, this time should be spent either writing letters or perhaps intensive study of scripture applied to personal life experiences? Something useful. Because it would be pretty silly, I think, to stay up all night on a routine basis just to play video games or something of that nature. Anyway, that's the end.

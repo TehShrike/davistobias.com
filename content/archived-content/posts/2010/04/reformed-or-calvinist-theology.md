@@ -1,0 +1,16 @@
+title: Reformed/Calvinist theology, yes or no?
+date: 2010-04-25 23:48
+excerpt: 
+categories: blog, theology-thoughts
+
+A friend of mine asked the question (summarized) "why do you hold to the Reformist/Calvinist view?" The answer that I started writing became so long that it wouldn't fit inside a Facebook comment, and I thought it might be better to post it here. It is pretty well assumed that if someone is serious about there faith, that they think their belief to be most Biblical, so the answer "I like this belief because it is most Biblical" are not very helpful. With that in mind, here is my answer:
+
+While the things that I believe probably line up with "Reformed" or "Calvinist" doctrine, and in a discussion I might call myself one of those if it would speed up the conversation (but in accordance with the following statement), I hesitate to call my belief by any particular name other than "Christian" and, more specifically, "Bible believing". It's not that I am ashamed in some way about what I believe, or that I necessarily have disagreements with some of the beliefs within that group, only that people have their own understanding of the word—many times having an unfounded negative stereotype.
+
+The most important thing to me is, as you said, that whatever view I hold to be as close to a completely scriptural view as possible and I do think that "Calvinist"/"Reformed" doctrine is the closest to the Bible, or I would not be in such easy agreement with it's doctrines. While I think that this alone would be argument persuasive enough to keep me "in the fold", as it were, there is one more thing which makes my agreement in greater solidarity: A "full" view of scripture.
+
+The denomination which I came from (Berean/Baptist) focused primarily on the teachings in the New Testament, which I do admire, but they did so at a cost of neglecting the words of the Old Testament. I do not speak only of what the preacher preached upon, that he never preached from the Old Testament, but rather that the whole of the Old Testament (except, perhaps, the prophecies of Christ, the Messiah) was largely implicitly thought of as "past tense" or even perhaps "no longer useful for teaching". Two thirds of what we call "The Bible" was largely examined as a mere trinket, nearly on the level of the works of Nostradamus.
+
+Of course, I am being a bit harsh and strong-tongued on this point, and I will no doubt be reminded of teachings that I heard which were from the Old Testament. In fact, my parents regularly required us to read and study the Psalms and Proverbs. But it was the fact that, when one wanted to study serious thoughts—what I now recognize as the study of theology—one would not examine the Old Testament.
+
+When I was introduced to a theological view (baptism) the person discussing it with me did not turn exclusively to Hebrews or Romans, but rather showed me how the verses of baptism through the whole Bible were all presenting the same picture, and how the view of baptism in the New Testament was portrayed in the same manner as that of the Old. This view of scripture is a full and comprehensive view, in that it doesn't examine a single verse or chapter, or even a single book, without examining it from the context of the whole scripture.
