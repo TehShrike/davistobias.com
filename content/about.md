@@ -1,4 +1,5 @@
 title: About me
+updated: 2014-10-28
 
 
 Some things about me:
@@ -10,6 +11,7 @@ Some things about me:
 * mostly enjoys quiet evenings at home with the wife
 * married, no kids yet, but we're planning on it
 * believes some pretty politically-incorrect things
+* strong distaste for bumper-sticker slogans
 * thoroughly enjoys a bonfire on a fall evening
 * does some programming and software design
 * knows how to have a good time in groups and individually

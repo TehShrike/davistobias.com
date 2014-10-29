@@ -1,6 +1,8 @@
 title: When I run I feel His pleasure
 subtitle: My thoughts on the movie “Chariots of Fire”
 date: 2012-08-01
+categories: essay
+
 
 Although the film is, at the time of this writing, nearly
 thirty-one years old, and although I have heard of the story
