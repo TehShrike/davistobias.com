@@ -7,9 +7,9 @@ The Lord is my fundamental theorem, I shall freely integrate.
 
 He  makes me to calculate only simple field functions,
 
-He giveth me  simple polynomials,
+He giveth me simple polynomials,
 
-He guides me through easily parameterized paths,  for His names sake.
+He guides me through easily parameterized paths, for His names sake.
 
 Even though I differentiate at the global minimum  of life's functions,
 
@@ -23,4 +23,4 @@ Surely the derivative of Your blessings is always positive,
 
 to  the n<sup>th</sup> day of my life,
 
-and my vector field will point to  Your origin while `t` approaches infinity.
+and my vector field will point to Your origin while `t` approaches infinity.
