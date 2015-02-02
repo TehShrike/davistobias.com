@@ -69,7 +69,7 @@ On the one hand I think, yeah, women should dress modestly, and I think
 tight pants are probably a bit immodest.
 
 But on the other hand, since I'm actually talking to Christian men,
-Ireally have to level with you:
+I really have to level with you:
 
 ## That's a bullshit excuse for your lack of self control
 
@@ -97,7 +97,7 @@ the death penalty for people who commit adultery, and Jesus is saying
 basically this:
 
 > You know how big of a deal adultery is, what with the death penalty
-> and all? Well if you lust, you're commiting a sin that's just as bad.
+> and all? Well if you lust, you're committing a sin that's just as bad.
 > Like, it's a **really** big deal.
 
 So if you think that a woman dressing immodestly is what's causing you
@@ -146,14 +146,14 @@ sinful lusts. The problem isn't that women wear immodest clothes, the problem
 is that *you* have a heart that is inclined to sin. Your conscience is broken,
 work on that.
 
-## For Christian men who previously struggled with pornogrpahy
+## For Christian men who previously struggled with pornography
 
 If you, as a Christian man who once struggled with pornography, ever find
 yourself in a conversation *with other men* talking about how women should
 dress modestly, stop the conversation.
 
 The conversation shouldn't be about about modesty unless the men who are
-present have dealth with their own sin of lust.
+present have dealt with their own sin of lust.
 
 Be the "bigger man" and confess of your sin to the other men, and tell them
 about how the sin of lust and pornography is so much bigger and more pressing
@@ -205,7 +205,7 @@ imply that men are powerless to resist temptation.
 
 ## Finally
 
-It's easy to get caught up in discussion about modesty, and about whether
+It's easy to get caught up in discussions about modesty, and about whether
 things like "yoga pants" are modest or not, but let me remind you of a thing
 Jesus said in Matthew 7:
 
