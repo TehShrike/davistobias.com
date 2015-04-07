@@ -11,7 +11,7 @@ things, you're probably looking for [Tobias Labs](http://tobiaslabs.com/).
 My online presence:
 
 * [@saibotsivad](https://twitter.com/saibotsivad) on Twitter
-* I'm trying out [keybase](https://keybase.io/saibotsivad)
+* I use [keybase](https://keybase.io/saibotsivad)
 * I attempt to make some useful things and put them [on Github](https://github.com/tobiaslabs)
 * Most of the code is [on npm](https://www.npmjs.org/~saibotsivad)
 * Also I have some [personal repos](https://github.com/saibotsivad)
@@ -22,6 +22,6 @@ Some projects that I personally care about a lot:
 * Not being satisfied with The Swears in the [WTFPL](http://www.wtfpl.net/) or
   the restrictions of the [MIT license](http://opensource.org/licenses/MIT), I made
   the [Very Open License](http://veryopenlicense.com/), which I use on all my code.
-* The [SDMP](https://github.com/tobiaslabs/SDMP) is my attempt
+* The [SDMP](http://sdmp.github.io/) is my attempt
   at making the internet a better, more secure place.
 * Because I care about the state of our government, I support [Capitol Ministries](http://capmin.org/).
