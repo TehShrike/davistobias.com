@@ -196,7 +196,7 @@ open the door I really will come in to him and eat with him, and he with me.
 To the one who overcomes I will grant to sit with me on my throne, just as I
 overcame and sat down with my Father on His throne.
 >>
->> He who has an ear let him hear what the Spirit is saying to the churches.'"
+>> He who has an ear let him hear what the Spirit is saying to the churches.
 
 # Seven Seals: Christ governs all history on His throne
 
@@ -537,9 +537,9 @@ And the temple of God in heaven was opened, and the ark of the covenant of the
 Lord was seen in His temple. And there were lightnings, noises, thunderings
 and huge hail.
 
-**[Parenthesis—partly historical]**
+# Seven Visions: Spiritual battles are the key to earthly battles
 
-**[The woman, the Child, the dragon]**
+# TODO: make this chiasm more clear
 
 	12:1 A great sign appeared in the sky: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars. 2 And being pregnant she was crying out in labor, being in great pain to give birth.
 
@@ -549,196 +549,237 @@ and huge hail.
 
 	6 And the woman fled into the wilderness to where she has a place prepared by God, so that they may nourish her there one thousand two hundred and sixty days.
 
-**[Satan excluded from heaven]**
-
 	7 War was declared in heaven; Michael and his angels were to wage war with the dragon; so the dragon and his angels made war, 8 but he was not strong enough; neither was there any place found for him in heaven any more. 9 So the great dragon was expelled, that ancient serpent, who is called Slanderer and Satan, who deceives the whole inhabited world; he was thrown into the earth, and his angels were expelled with him. 10 And I heard a loud voice in the heaven saying: "Now the salvation and the power have come, even the Kingdom of our God and the authority of His Christ, because the accuser of our brothers has been thrown down, who accused them before our God day and night.      11 And they conquered him by the blood of the Lamb and by the word of their testimony, and they did not cherish their lives, even up to death. 12 Therefore rejoice, O heavens, yes, you who are dwelling in them! Woe to the earth and the sea! Because the devil has come down to you, having great wrath, knowing that he has little time."
-
-**[Satan persecutes the woman]**
 
 	13 So when the dragon perceived that he had been thrown into the earth, he persecuted the woman who gave birth to the Male. 14 And to the woman were given two wings of the great eagle, so that she might fly into the wilderness, into her place, so that she might be nourished there for a time and times and half a time, from the presence of the serpent. 15 So the serpent expelled water from his mouth after the woman, like a river, so as to cause her to be overwhelmed by the flood. 16 But the ground helped the woman; indeed, the ground opened its mouth and drank up the river that the dragon expelled from his mouth. 17 So the dragon was furious about the woman and off he went to make war with the rest of her offspring, those who keep the commands of God and hold the testimony of Jesus.
 
-**[Various Vignettes]**
+## The First Vision: The beast rises out of the sea
 
-**[A beast from the sea]**
+Now I was standing on the seashore, and I saw a Beast of prey coming up out of
+the sea, having seven heads and ten horns, and on his horns ten diadems and on
+his heads blasphemous names. The beast that I saw was similar to a leopard, his
+feet were like those of a bear, and his mouth was like a lion's mouth. And the
+dragon gave him his power and his throne and great authority. And one of his
+heads was as if it had been mortally wounded, but his fatal wound was healed.
+And the whole earth marveled after the Beast.
 
-	13:1 Now I was standing on the seashore, and I saw a Beast of prey coming up out of the sea, having seven heads and ten horns, and on his horns ten diadems and on his heads blasphemous names. 2 The beast that I saw was similar to a leopard, his feet were like those of a bear, and his mouth was like a lion's mouth. And the dragon gave him his power and his throne and great authority. 3 And one of his heads was as if it had been mortally wounded, but his fatal wound was healed. And the whole earth marveled after the Beast.
+And they did obeisance to the dragon who had given the authority to the Beast,
+and they did obeisance to the Beast saying, "Who is like the Beast, and who is
+able to make war with him?" And he was given a mouth speaking great things, that
+is, blasphemy; and he was given authority to make war forty-two months. So he
+opened that mouth of his in blasphemy against God, to blaspheme His name and
+His tabernacle, those who dwell in Heaven. And it was given to him to make war
+with the saints and to conquer them. And authority was given him over every
+tribe and language and ethnic nation. All who dwell on the earth will do
+obeisance to him, whose names have not been written in the Book of Life of the
+Lamb slaughtered from the foundation of the world.
 
-	4 And they did obeisance to the dragon who had given the authority to the Beast, and they did obeisance to the Beast saying, "Who is like the Beast, and who is able to make war with him?" 5 And he was given a mouth speaking great things, that is, blasphemy; and he was given authority to make war forty-two months. 6 So he opened that mouth of his in blasphemy against God, to blaspheme His name and His tabernacle, those who dwell in Heaven. 7 And it was given to him to make war with the saints and to conquer them. And authority was given him over every tribe and language and ethnic nation. 8 All who dwell on the earth will do obeisance to him, whose names have not been written in the Book of Life of the Lamb slaughtered from the foundation of the world.
+If anyone has an ear, let him hear. If anyone has captivity, he goes away. If
+anyone kills with the sword, with the sword he must be killed. Here is the
+endurance and the faith of the saints.
 
-	9 If anyone has an ear, let him hear. 10 If anyone has captivity, he goes away. If anyone kills with the sword, with the sword he must be killed. Here is the endurance and the faith of the saints.
+## The Second Vision: The beast rises out of the land
 
-**[a beast from the land]**
+Now I saw another beast of prey coming up out of the land, and he had two horns like a lamb and spoke like a dragon. And he exercises all the authority of the first Beast in his presence; and he started to cause the earth and those who dwell in it to worship the first Beast, whose mortal wound was healed. And he performs great signs, including that fire should come down from heaven upon the earth before the people. And he deceives my own people, those dwelling on the earth, by the signs that it was given to him to perform before the Beast, telling those who dwell on the earth to make an image to the Beast who had the sword wound and lived. And it was granted to him to give breath to the image of the Beast, so that the image of the Beast should actually speak, and should cause as many as would not worship the image of the Beast to be killed. And he causes everyone—both small and great, both rich and poor, both free and slave—to receive marks on their right hand or on their foreheads, so that no one would be able to buy or sell who does not have the mark, the name of the Beast or the number of his name. Here is wisdom: let the one who has understanding calculate the number of the Beast, for it is the number of man—his number is 666.
 
-	11 Now I saw another beast of prey coming up out of the land, and he had two horns like a lamb and spoke like a dragon. 12 And he exercises all the authority of the first Beast in his presence; and he started to cause the earth and those who dwell in it to worship the first Beast, whose mortal wound was healed. 13 And he performs great signs, including that fire should come down from heaven upon the earth before the people. 14 And he deceives my own people, those dwelling on the earth, by the signs that it was given to him to perform before the Beast, telling those who dwell on the earth to make an image to the Beast who had the sword wound and lived. 15 And it was granted to him to give breath to the image of the Beast, so that the image of the Beast should actually speak, and should cause as many as would not worship the image of the Beast to be killed. 16 And he causes everyone—both small and great, both rich and poor, both free and slave—to receive marks on their right hand or on their foreheads, 17 so that no one would be able to buy or sell who does not have the mark, the name of the Beast or the number of his name. 18 Here is wisdom: let the one who has understanding calculate the number of the Beast, for it is the number of man—his number is 666.
+## The Third Vision: The 144,000 virgin warriors, and the Lamb
 
-**[The Lamb and the 144,000]**
+And wow, I saw a Lamb standing on Mount Zion, and with Him one hundred and forty-four thousand, having His name and His Father's name written on their foreheads. And I heard a sound from the sky, like the sound of many waters, and like the sound of loud thunder; and the sound that I heard was like harpists playing on their harps. And they sing a new song before the Throne, and before the four living beings and the elders; and no one was able to learn the song except the 144 thousand, who had been redeemed from the earth. These are the ones not defiled with women, for they are virgins; these are the ones who follow the Lamb wherever He may go. These were redeemed by Jesus from among men, firstfruits for God and for the Lamb; no lie was found in their mouth, for they are blameless.
 
-	14:1 And wow, I saw a Lamb standing on Mount Zion, and with Him one hundred and forty-four thousand, having His name and His Father's name written on their foreheads. 2 And I heard a sound from the sky, like the sound of many waters, and like the sound of loud thunder; and the sound that I heard was like harpists playing on their harps. 3 And they sing a new song before the Throne, and before the four living beings and the elders; and no one was able to learn the song except the 144 thousand, who had been redeemed from the earth. 4 These are the ones not defiled with women, for they are virgins; these are the ones who follow the Lamb wherever He may go. These were redeemed by Jesus from among men, firstfruits for God and for the Lamb; 5 no lie was found in their mouth, for they are blameless.
+## The Fourth Vision: The seven angels
 
-**[Three angels]**
+And I saw another angel flying in mid-heaven, having an everlasting gospel to be proclaimed to those who reside on the earth—to every ethnic nation and tribe and language and people—saying with a loud voice, "Fear God and give Him glory, because the hour of His judging has come, and do obeisance to Him who made heaven and earth, the ocean and springs of water."
 
-	6 And I saw another angel flying in mid-heaven, having an everlasting gospel to be proclaimed to those who reside on the earth—to every ethnic nation and tribe and language and people—7 saying with a loud voice, "Fear God and give Him glory, because the hour of His judging has come, and do obeisance to Him who made heaven and earth, the ocean and springs of water."
+And another, a second, angel followed, saying, "It fell, it fell, Babylon the great!—she made all the nations drink of the wine of the rage of her fornication."
 
-	8 And another, a second, angel followed, saying, "It fell, it fell, Babylon the great!—she made all the nations drink of the wine of the rage of her fornication."
+And another angel, a third, followed them, saying with a loud voice, "If anyone worships the Beast and his image, and receives a mark on his forehead or on his hand, really, he will drink of the wine of the fury of God, mixed at full strength in the cup of His wrath. In fact, he will be tormented with fire and sulfur before the holy angels and before the Lamb." So the smoke of their torment goes up forever and ever, and they have no rest day or night, those who worship the Beast and his image, and whoever receives the mark of his name.
 
-	9 And another angel, a third, followed them, saying with a loud voice, "If anyone worships the Beast and his image, and receives a mark on his forehead or on his hand, 10 really, he will drink of the wine of the fury of God, mixed at full strength in the cup of His wrath. In fact, he will be tormented with fire and sulfur before the holy angels and before the Lamb." 11 So the smoke of their torment goes up forever and ever, and they have no rest day or night, those who worship the Beast and his image, and whoever receives the mark of his name.
+Here is the endurance of the saints, here those who keep the commands of God and the faith of Jesus. I heard a voice from heaven saying to me, "Write: 'Blessed are the dead who die in the Lord from now on' ("Yes" says the Spirit) 'so that they may rest from their labors, and their works follow along with them'."
 
-	12 Here is the endurance of the saints, here those who keep the commands of God and the faith of Jesus. 13 I heard a voice from heaven saying to me, "Write: 'Blessed are the dead who die in the Lord from now on' ("Yes" says the Spirit) 'so that they may rest from their labors, and their works follow along with them'."
+## The Fifth Vision: The positive reaping of wheat
 
-**[The earth is harvested]**
+And wow, I saw a white cloud, and someone like a son of man sitting on the cloud, having on his head a golden crown and in his hand a sharp sickle. And another angel came out of the temple crying out with a loud voice to the one sitting on the cloud, "Thrust in your sickle and reap, for the time to reap has come because the harvest of the earth is dry." So the one sitting on the cloud swung his sickle upon the earth, and the earth was harvested.
 
-	14 And wow, I saw a white cloud, and someone like a son of man sitting on the cloud, having on his head a golden crown and in his hand a sharp sickle. 15 And another angel came out of the temple crying out with a loud voice to the one sitting on the cloud, "Thrust in your sickle and reap, for the time to reap has come because the harvest of the earth is dry." 16 So the one sitting on the cloud swung his sickle upon the earth, and the earth was harvested.
+## The Sixth Vision: The negative reaping of grapes
 
-	17 Then another angel came out of the temple (the one in heaven), he too having a sharp sickle.     18 And another angel came out from the altar (having authority over the fire) and he called out with a loud cry to the one having the sharp sickle saying, "Thrust in your sharp sickle and gather the grape clusters of the vine of the earth, because her grapes are ripe." 19 So the angel swung his sickle at the earth and gathered the vine of the earth and threw it into the great winepress of God's fury. 20 And the winepress was trampled outside the city, and blood came out of the winepress up to the horses' bridles, for a thousand six hundred stadia.
+Then another angel came out of the temple (the one in heaven), he too having a sharp sickle. And another angel came out from the altar (having authority over the fire) and he called out with a loud cry to the one having the sharp sickle saying, "Thrust in your sharp sickle and gather the grape clusters of the vine of the earth, because her grapes are ripe." So the angel swung his sickle at the earth and gathered the vine of the earth and threw it into the great winepress of God's fury. And the winepress was trampled outside the city, and blood came out of the winepress up to the horses' bridles, for a thousand six hundred stadia.
 
-**[Here come the bowls!]**
+## The Seventh Vision: The final sign
 
-	15:1 And I saw another sign in heaven, great and marvelous: seven angels having the seven last plagues—in them the fury of God is completed.
+And I saw another sign in heaven, great and marvelous: seven angels having the seven last plagues—in them the fury of God is completed.
 
-**[The song of the victors]**
+# The Seven Plagues: Angels preparing for warfare; temple filled with God's glory
 
-	2 And I saw as it were a sea of glass mingled with fire, and those who prevailed over the Beast and over his image and over the number of his name, standing on the glassy sea, having harps of God. 3 They sing the song of Moses, the slave of God, and the song of the Lamb, saying: "Great and marvelous are Your works, O Lord God, the Almighty! Just and true are Your ways, O King of the nations! 4 Who could not fear You, O Lord, and glorify Your name? Because You alone are holy, because all the nations will come and do obeisance before You, because Your righteous judgments have been manifested."
+And I saw as it were a sea of glass mingled with fire, and those who prevailed over the Beast and over his image and over the number of his name, standing on the glassy sea, having harps of God. They sing the song of Moses, the slave of God, and the song of the Lamb, saying: "Great and marvelous are Your works, O Lord God, the Almighty! Just and true are Your ways, O King of the nations! Who could not fear You, O Lord, and glorify Your name? Because You alone are holy, because all the nations will come and do obeisance before You, because Your righteous judgments have been manifested."
 
-**[The angels are commissioned]**
+After these things I looked, and the sanctuary of the tabernacle of the testimony in heaven was opened. And out from the sanctuary came the seven angels, the ones having the seven plagues; they were clothed in pure bright linen and were girded around the chests with golden belts. Then one of the four living beings gave the seven angels seven golden bowls filled with the fury of God, the One who lives forever and ever. The sanctuary was filled with smoke from the glory of God and from His power, and no one was able to go into the sanctuary until the seven angels' plagues were completed. And I heard a loud voice from the sanctuary saying to the seven angels, "Go, pour out the bowls of God's fury on the earth."
 
-	5 After these things I looked, and the sanctuary of the tabernacle of the testimony in heaven was opened. 6 And out from the sanctuary came the seven angels, the ones having the seven plagues; they were clothed in pure bright linen and were girded around the chests with golden belts. 7 Then one of the four living beings gave the seven angels seven golden bowls filled with the fury of God, the One who lives forever and ever. 8 The sanctuary was filled with smoke from the glory of God and from His power, and no one was able to go into the sanctuary until the seven angels' plagues were completed. 16:1 And I heard a loud voice from the sanctuary saying to the seven angels, "Go, pour out the bowls of God's fury on the earth."
+## The First Bowl: On the land
 
-**[The first bowl]**
+So off went the first one and poured out his bowl on the earth, and a foul and malignant ulcer appeared in the people who had the mark of the beast and those who worshipped his image.
 
-	2 So off went the first one and poured out his bowl on the earth, and a foul and malignant ulcer appeared in the people who had the mark of the beast and those who worshipped his image.
+## The Second Bowl: On the sea
 
-**[The second bowl]**
+Then the second angel poured out his bowl on the sea, and it turned into blood, like a dead person's; so every living soul in the sea died.
 
-	3 Then the second angel poured out his bowl on the sea, and it turned into blood, like a dead person's; so every living soul in the sea died.
+## The Third Bowl: On the waters
 
-**[The third bowl]**
+Then the third angel poured out his bowl on the rivers and the springs of water, and they turned into blood. And I heard the angel of the waters saying, "How just You are! The One who is and who was, the holy One, because You have judged these things. Because they shed the blood of saints and prophets, and You have given them blood to drink. They deserve it!" And I heard one from the altar saying, "Yes, O Lord God, the Almighty! Your judgings are true and just!"
 
-	4 Then the third angel poured out his bowl on the rivers and the springs of water, and they turned into blood. 5 And I heard the angel of the waters saying, "How just You are! The One who is and who was, the holy One, because You have judged these things. 6 Because they shed the blood of saints and prophets, and You have given them blood to drink. They deserve it!" 7 And I heard one from the altar saying, "Yes, O Lord God, the Almighty! Your judgings are true and just!"
+## The Fourth Bowl: On the sun
 
-**[The fourth bowl]**
+Then the fourth angel poured out his bowl on the sun, and it was granted to him to burn the people with fire. So the people were burned with severe burns, and they blasphemed the name of God, who has authority over these plagues. And they did not repent to give Him glory.
 
-	8 Then the fourth angel poured out his bowl on the sun, and it was granted to him to burn the people with fire. 9 So the people were burned with severe burns, and they blasphemed the name of God, who has authority over these plagues. And they did not repent to give Him glory.
+## The Fifth Bowl: On the throne of the beast
 
+Then the fifth angel poured out his bowl on the throne of the Beast, and his kingdom was plunged into darkness; so they gnawed their tongues because of the pain. And they blasphemed the God of heaven because of their pains, and because of their ulcers; yet they did not repent of their deeds.
 
+## The Sixth Bowl: On the Euphrates
 
-**[The fifth bowl]**
+Then the sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, so that the way for the kings from the sun's rising might be prepared. And I saw three unclean spirits, like frogs, coming out of the mouth of the dragon, out of the mouth of the Beast, and out of the mouth of the false prophet. For they are spirits of demons, performing signs, which go out to the kings of the whole inhabited earth, to gather them to the battle of that great day of God Almighty. ("Watch out, I am coming like a thief. Blessed is the one who watches and guards his clothes, so that he not walk about naked and they see his shame.") So he gathered them to the place called in Hebrew, Armageddon.
 
-	10 Then the fifth angel poured out his bowl on the throne of the Beast, and his kingdom was plunged into darkness; so they gnawed their tongues because of the pain. 11 And they blasphemed the God of heaven because of their pains, and because of their ulcers; yet they did not repent of their deeds.
+## The Seventh Bowl: On the air
 
-**[The sixth bowl]**
+Then the seventh angel poured out his bowl into the air, and a great voice came out of the sanctuary of heaven, from the Throne, saying, "It is done!"
 
-	12 Then the sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, so that the way for the kings from the sun's rising might be prepared. 13 And I saw three unclean spirits, like frogs, coming out of the mouth of the dragon, out of the mouth of the Beast, and out of the mouth of the false prophet. 14 For they are spirits of demons, performing signs, which go out to the kings of the whole inhabited earth, to gather them to the battle of that great day of God Almighty. 15 ("Watch out, I am coming like a thief. Blessed is the one who watches and guards his clothes, so that he not walk about naked and they see his shame.") 16 So he gathered them to the place called in Hebrew, Armageddon.
+# Seven Condemnations: Even with the support of Rome, Jerusalem is no match for Christ
 
-**[The seventh bowl]**
+And there were lightnings and thunders and noises. And there was a tremendous earthquake, a terribly severe earthquake such as had not occurred since mankind existed on the earth. So the great city was divided into three parts, and the cities of the nations fell. And Babylon the great was remembered before God, to give her the cup of the wine of the fury of His wrath. And every island fled, and mountains were not found. And huge hailstones, weighing about a talent, fall out of the sky on the people; and the people blasphemed God on account of the plague of the hail, because its plague was exceedingly severe.
 
-	17 Then the seventh angel poured out his bowl into the air, and a great voice came out of the sanctuary of heaven, from the Throne, saying, "It is done!" 18 and there were lightnings and thunders and noises. And there was a tremendous earthquake, a terribly severe earthquake such as had not occurred since mankind existed on the earth. 19 So the great city was divided into three parts, and the cities of the nations fell. And Babylon the great was remembered before God, to give her the cup of the wine of the fury of His wrath. 20 And every island fled, and mountains were not found. 21 And huge hailstones, weighing about a talent, fall out of the sky on the people; and the people blasphemed God on account of the plague of the hail, because its plague was exceedingly severe.
+## The First Condemnation: Blasphemy of the harlot
 
-**[About Babylon]**
+One of the seven angels who had the seven bowls came and spoke with me saying, "Come, I will show you the judgment of the great whore who sits on the many waters, with whom the kings of the earth fornicated; and the inhabitants of the earth were made drunk with the wine of her fornication."
 
-17:1 One of the seven angels who had the seven bowls came and spoke with me saying, "Come, I will show you the judgment of the great whore who sits on the many waters, 2 with whom the kings of the earth fornicated; and the inhabitants of the earth were made drunk with the wine of her fornication."
+## The Second Condemnation: The harlot's pagan alliance with Rome
 
-**[A woman and a beast]**
+So he took me away in spirit to a wilderness. And I saw a woman sitting on a scarlet beast full of blasphemous names, having seven heads and ten horns. And the woman was clothed in purple and scarlet, adorned with gold and precious stones and pearls, having in her hand a golden cup full of abominations and the filthiness of her fornication. And on her forehead a name was written: "Mystery, Babylon the Great, the Mother of the prostitutes and the abominations of the earth." And I saw the woman drunk with the blood of the saints, even with the blood of the martyrs of Jesus. And upon seeing her I was tremendously impressed.
 
-	3 So he took me away in spirit to a wilderness. And I saw a woman sitting on a scarlet beast full of blasphemous names, having seven heads and ten horns. 4 And the woman was clothed in purple and scarlet, adorned with gold and precious stones and pearls, having in her hand a golden cup full of abominations and the filthiness of her fornication. 5 And on her forehead a name was written: "Mystery, Babylon the Great, the Mother of the prostitutes and the abominations of the earth." 6 And I saw the woman drunk with the blood of the saints, even with the blood of the martyrs of Jesus. And upon seeing her I was tremendously impressed.
+So the angel said to me:
 
-**[The vision explained]**
+> Why are you impressed? I will tell you the mystery of the woman and of the beast, having the seven heads and the ten horns, that carries her. The beast that you saw was, and is not, and is about to come up out of the Abyss and to go into perdition. And those who dwell upon the earth will be amazed, whose names are not written in the Book of Life from the foundation of the world, when they see the beast that was, and is not and will be present. Here is the mind that has wisdom: The seven heads are seven mountains on which the woman sits. And there are seven kings; five have fallen, one is, the other has not come yet. And whenever he comes he must continue a short time. And the beast that was and is not; he is actually the eighth, yet he is of the seven, and he is going into perdition. And the ten horns that you saw are ten kings who have not yet received a kingdom, but they receive authority as kings with the Beast for one hour. These are of one mind and give their power and authority to the Beast. They will make war with the Lamb, and the Lamb will conquer them, because He is Lord of lords and King of kings; and those who are with Him are called and chosen and faithful.
 
-	7 So the angel said to me: "Why are you impressed? I will tell you the mystery of the woman and of the beast, having the seven heads and the ten horns, that carries her. 8 The beast that you saw was, and is not, and is about to come up out of the Abyss and to go into perdition. And those who dwell upon the earth will be amazed, whose names are not written in the Book of Life from the foundation of the world, when they see the beast that was, and is not and will be present. 9 Here is the mind that has wisdom: The seven heads are seven mountains on which the woman sits. 10 And there are seven kings; five have fallen, one is, the other has not come yet. And whenever he comes he must continue a short time. 11 And the beast that was and is not; he is actually the eighth, yet he is of the seven, and he is going into perdition. 12 And the ten horns that you saw are ten kings who have not yet received a kingdom, but they receive authority as kings with the Beast for one hour. 13 These are of one mind and give their power and authority to the Beast. 14 They will make war with the Lamb, and the Lamb will conquer them, because He is Lord of lords and King of kings; and those who are with Him are called and chosen and faithful."
+Then he says to me:
 
-	15 Then he says to me: "The waters that you saw, where the whore sits, are peoples and multitudes and nations and languages. 16 And the ten horns that you saw, also the beast, these will hate the whore and will lay her waste and strip her and eat her flesh and burn her with fire. 17 Because God put it into their hearts to perform His purpose, even to be of one mind, and to give their kingdom to the Beast, until the words of God should be fulfilled. 18 Now the woman whom you saw is the great city that holds rulership over the kings of the earth.
+> The waters that you saw, where the whore sits, are peoples and multitudes and nations and languages. And the ten horns that you saw, also the beast, these will hate the whore and will lay her waste and strip her and eat her flesh and burn her with fire. Because God put it into their hearts to perform His purpose, even to be of one mind, and to give their kingdom to the Beast, until the words of God should be fulfilled. Now the woman whom you saw is the great city that holds rulership over the kings of the earth.
 
-**[Her fall proclaimed]**
+## The Third Condemnation: Spiritual fornications
 
-	18:1 After these things I saw another angel coming down from heaven, having great authority, and the earth was illuminated by his splendor. 2 And he cried out with a strong voice saying: "It fell, it fell, Babylon the great! and has become a dwelling place of demons, even a prison of every unclean spirit, also a prison of every unclean and detestable bird. 3 Because all the nations have drunk of the rage of the wine of her fornication and the kings of the earth have fornicated with her, and the merchants of the earth became rich through the strength of her luxury."
+After these things I saw another angel coming down from heaven, having great authority, and the earth was illuminated by his splendor. And he cried out with a strong voice saying:
 
-	4 And I heard another Voice from heaven saying: "Come out of her, my people, so as not to participate in her sins and so as not to receive of her plagues. 5 For her sins have reached to heaven and God has remembered about her her iniquities. 6 Render to her just as she rendered to you; yes, pay her back double, according to her deeds; in the cup that she mixed, mix double for her. 7 To the extent that she glorified herself and lived luxuriously, by so much give her torment and sorrow; because in her heart she says, 'I sit a queen, and am not a widow; and I will certainly not see sorrow.' 8 Therefore her plagues will come in one day—death and sorrow and famine—and she will be burned up with fire; because the Lord God who has judged her is strong.
+> It fell, it fell, Babylon the great! and has become a dwelling place of demons, even a prison of every unclean spirit, also a prison of every unclean and detestable bird. Because all the nations have drunk of the rage of the wine of her fornication and the kings of the earth have fornicated with her, and the merchants of the earth became rich through the strength of her luxury.
 
-**[Her fall lamented]**
+And I heard another Voice from heaven saying:
 
-	9 "The kings of the earth who fornicated and lived luxuriously with her will weep and mourn over her, when they see the smoke of her burning, 10 standing afar off for fear of her torment, saying, 'Alas, alas, O great city Babylon, O mighty city! Because your judgment came in one hour.'
+> Come out of her, my people, so as not to participate in her sins and so as not to receive of her plagues. For her sins have reached to heaven and God has remembered about her her iniquities. Render to her just as she rendered to you; yes, pay her back double, according to her deeds; in the cup that she mixed, mix double for her. To the extent that she glorified herself and lived luxuriously, by so much give her torment and sorrow; because in her heart she says, "I sit a queen, and am not a widow; and I will certainly not see sorrow." Therefore her plagues will come in one day—death and sorrow and famine—and she will be burned up with fire; because the Lord God who has judged her is strong.
 
-	11 "And the merchants of the earth weep and sorrow over her because no one buys their goods anymore: 12 goods of gold and of silver, of precious stones and of pearl, of fine linen and of purple, of silk and of scarlet; every citron wood and object of ivory, every object of most precious wood and of bronze and of iron and of marble; 13 cinnamon and incense and perfume and frankincense, wine and olive oil and fine flour and wheat, cattle and sheep and horses and carriages, and bodies and souls of men! 14 ('Yes, the fruit that your soul craved has gone from you, and all the sumptuous and splendid things have perished from you, and you will never find them again!') 15 The merchants of these things, who became rich by her, will stand afar off for fear of her torment, weeping and sorrowing 16 and saying, 'Alas, alas, O great city! that was clothed in fine linen and purple and scarlet, and was adorned with gold and precious stones and pearls; 17 because in one hour such great wealth was laid waste.'
+## The Fourth Condemnation: Ungodly statist/commercial alliances
 
-	"And every ship captain, and all who travel by ship—sailors and as many as work the sea—stood afar off 18 and cried out, seeing the smoke of her burning, saying, 'Who is like the great city!?' 19 They threw dust on their heads and cried out, weeping and sorrowing and saying, 'Alas, alas, O great city! by which all who had ships in the sea became rich, by her costly abundance; because in one hour she was laid waste.'
+> The kings of the earth who fornicated and lived luxuriously with her will weep and mourn over her, when they see the smoke of her burning, standing afar off for fear of her torment, saying, "Alas, alas, O great city Babylon, O mighty city! Because your judgment came in one hour."
+>
+> And the merchants of the earth weep and sorrow over her because no one buys their goods anymore: goods of gold and of silver, of precious stones and of pearl, of fine linen and of purple, of silk and of scarlet; every citron wood and object of ivory, every object of most precious wood and of bronze and of iron and of marble; cinnamon and incense and perfume and frankincense, wine and olive oil and fine flour and wheat, cattle and sheep and horses and carriages, and bodies and souls of men! ("Yes, the fruit that your soul craved has gone from you, and all the sumptuous and splendid things have perished from you, and you will never find them again!") The merchants of these things, who became rich by her, will stand afar off for fear of her torment, weeping and sorrowing 16 and saying,
+>
+>> Alas, alas, O great city! that was clothed in fine linen and purple and scarlet, and was adorned with gold and precious stones and pearls; because in one hour such great wealth was laid waste.
+>
+> And every ship captain, and all who travel by ship—sailors and as many as work the sea—stood afar off and cried out, seeing the smoke of her burning, saying, "Who is like the great city!?" They threw dust on their heads and cried out, weeping and sorrowing and saying, "Alas, alas, O great city! by which all who had ships in the sea became rich, by her costly abundance; because in one hour she was laid waste."
+>
+> Rejoice over her, O heaven, yes you saints and apostles and prophets, because God has pronounced your judgment against her!
 
-**[Her doom final]**
+## The Fifth Condemnation: The finality of Bablyon's fall
 
-	20 "Rejoice over her, O heaven, yes you saints and apostles and prophets, because God has pronounced your judgment against her!" 21 And a mighty angel took up a stone like a huge millstone and threw it into the ocean saying: "The great city Babylon will be thrown down violently, just like that, and will never be found again. 22 'The sound of harpists and musicians and flutists and trumpeters will never be heard in you again; no craftsman of whatever craft will ever be found in you again; the sound of a millstone will never be heard in you again; 23 the light of a lamp will never shine in you again; the voice of bridegroom and bride will never be heard in you again; because your merchants were the magnates of the earth, because by your sorcery all the nations were deceived.' 24 And in her was found the blood of prophets and saints, even of all who had been butchered on the earth."
+And a mighty angel took up a stone like a huge millstone and threw it into the ocean saying:
 
-**[Her fall celebrated]**
+> The great city Babylon will be thrown down violently, just like that, and will never be found again. The sound of harpists and musicians and flutists and trumpeters will never be heard in you again; no craftsman of whatever craft will ever be found in you again; the sound of a millstone will never be heard in you again; the light of a lamp will never shine in you again; the voice of bridegroom and bride will never be heard in you again; because your merchants were the magnates of the earth, because by your sorcery all the nations were deceived. And in her was found the blood of prophets and saints, even of all who had been butchered on the earth.
 
-	19:1 After these things I heard as it were the loud voice of a great multitude in heaven saying, "Hallelujah! The salvation and power and glory of our God! 2 Because His judgments are true and just, because He has judged the great whore who corrupted the earth with her fornication, and has avenged the blood of His slaves by her hand." 3 And a second voice said, "Hallelujah! Her smoke goes up for ever and ever!" 4 And the twenty-four elders and the four living beings fell down and worshipped God, who sits on the throne, saying, "Amen, Hallelujah!" 5 And a voice came from the Throne saying, ""Praise our God, all you His slaves and those who fear Him, small and great!"
+## The Sixth Condemnation: All heaven agreeing with Babylon's judgement
 
-**[The wedding of the Lamb]**
+After these things I heard as it were the loud voice of a great multitude in heaven saying, "Hallelujah! The salvation and power and glory of our God! Because His judgments are true and just, because He has judged the great whore who corrupted the earth with her fornication, and has avenged the blood of His slaves by her hand."
 
-	6 And I heard as it were the voice of a great multitude like the sound of many waters and like the sound of mighty thunderings saying: "Hallelujah! Because the Lord our God reigns, the Almighty! 7 Let us rejoice and exult and give Him the glory, because the wedding of the Lamb has come, and His wife has prepared herself." 8 And it was granted to her to be dressed in fine linen, bright and pure, for the fine linen is the righteous deeds of the saints.
+And a second voice said, "Hallelujah! Her smoke goes up for ever and ever!"
 
-	9 And he says to me, "Write: 'Blessed are those who are invited to the wedding banquet of the Lamb'." And he says to me, "These are the true words of God." 10 And I fell at his feet to worship him, but he says to me, "Don't! I am your fellow slave and among your brothers who hold the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy."
+And the twenty-four elders and the four living beings fell down and worshipped God, who sits on the throne, saying, "Amen, Hallelujah!"
 
-**[The battle of Armageddon]**
+## The Seventh Condemnation: The death of the harlot is followed by the marriage of the Lamb
 
-	11 I saw the heaven opened, and wow, a white horse! And the One who sits on it, called Faithful and True, both judges and makes war with righteousness. 12 Now His eyes were a flame of fire and on His head were many diadems, having names written, besides a written name that no one knows except Himself; 13 and He was clothed with a robe that had been dipped in blood, and His name is called The Word of God. 14 And the armies in heaven, clothed in fine linen, white, clean, followed Him on white horses. 15 And out of His mouth goes a sharp, two-edged sword, so that with it He may strike the nations. And He Himself will shepherd them with a rod of iron. And He Himself treads the winepress of the fury of the wrath of God, the Almighty. 16 And He has a name written on His robe and on His thigh, King of kings and Lord of lords!
+And a voice came from the Throne saying, "Praise our God, all you His slaves and those who fear Him, small and great!"
 
-**[A feast for vultures]**
+And I heard as it were the voice of a great multitude like the sound of many waters and like the sound of mighty thunderings saying:
 
-	17 And I saw an angel standing in the sun; and he cried out with a loud voice, saying to all the birds that fly in mid-heaven, "Come, gather together to the great dinner of God, 18 so that you may eat flesh of kings and flesh of commanders and flesh of the mighty and flesh of horses along with their riders, even the flesh of all, both free and slave, both small and great."
+> Hallelujah! Because the Lord our God reigns, the Almighty! Let us rejoice and exult and give Him the glory, because the wedding of the Lamb has come, and His wife has prepared herself.
 
-	19 And I saw the Beast and the kings of the earth and their armies gathered together to make war against the One riding the horse and against His army. 20 So the Beast was captured, and with him the False prophet, the one who performed signs in his presence (by which he had deceived those who had received the mark of the Beast and those who worshipped his image). The two were thrown alive into the Lake of Fire that burns with brimstone. 21 And the rest were killed by the sword that proceeds from the mouth of the One riding the horse. And all the birds were filled with their flesh.
+And it was granted to her to be dressed in fine linen, bright and pure, for the fine linen is the righteous deeds of the saints.
 
-**[The Millennium]**
+And he says to me, "Write: 'Blessed are those who are invited to the wedding banquet of the Lamb'." And he says to me, "These are the true words of God." And I fell at his feet to worship him, but he says to me, "Don't! I am your fellow slave and among your brothers who hold the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy."
 
-**[Satan bound]**
+# Seven New Covenant Visions: Jesus proves that he is King of kings and Lord of lords
 
-	20:1 And I saw an angel coming down from heaven, having the key of the Abyss and a huge chain on his hand. 2 And he seized the dragon, the ancient serpent, who is a slanderer, even Satan, who deceives the whole inhabited earth, and bound him for a thousand years; 3 he threw him into the Abyss and locked and sealed it over him so that he should not deceive the nations any more until the thousand years were finished. And after these years he must be loosed for a short time.
+I saw the heaven opened, and wow, a white horse! And the One who sits on it, called Faithful and True, both judges and makes war with righteousness. Now His eyes were a flame of fire and on His head were many diadems, having names written, besides a written name that no one knows except Himself; and He was clothed with a robe that had been dipped in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white, clean, followed Him on white horses. And out of His mouth goes a sharp, two-edged sword, so that with it He may strike the nations. And He Himself will shepherd them with a rod of iron. And He Himself treads the winepress of the fury of the wrath of God, the Almighty. And He has a name written on His robe and on His thigh, King of kings and Lord of lords!
 
-**[Saints reign]**
+And I saw an angel standing in the sun; and he cried out with a loud voice, saying to all the birds that fly in mid-heaven,
 
-	4 And I saw thrones, and they sat on them, and judgment was committed to them; also, I saw the souls of those who had been beheaded on account of the testimony of Jesus and on account of the Word of God, even those who had not worshipped the Beast or his image and had not received the mark on their forehead and on their hand. And they lived and reigned with Christ for a thousand years. 5 (Now the rest of the dead did not come to life until the thousand years were finished.) This is the first resurrection. 6 Blessed and holy is the one having a part in the first resurrection; upon such the second death has no power, but they will be priests of God and of Christ, and will reign with Him a thousand years.
+> Come, gather together to the great dinner of God, so that you may eat flesh of kings and flesh of commanders and flesh of the mighty and flesh of horses along with their riders, even the flesh of all, both free and slave, both small and great.
 
-**[The final rebellion]**
+And I saw the Beast and the kings of the earth and their armies gathered together to make war against the One riding the horse and against His army. So the Beast was captured, and with him the False prophet, the one who performed signs in his presence (by which he had deceived those who had received the mark of the Beast and those who worshipped his image). The two were thrown alive into the Lake of Fire that burns with brimstone. And the rest were killed by the sword that proceeds from the mouth of the One riding the horse. And all the birds were filled with their flesh.
 
-	7 Now when the thousand years are finished Satan will be released from his prison, 8 and he will go forth to deceive the nations that are in the four corners of the earth, Gog and Magog, to gather them together to the war, whose number is like the sand of the sea. 9 They went up on the breadth of the earth and surrounded the camp of the saints and the beloved city. And fire came down out of heaven from God and devoured them. 10 And the devil, who deceived them, was thrown into the Lake of Fire and brimstone, where the Beast and the False prophet also are. And they will be tormented day and night forever and ever.
+## The First New Covenant Vision: Satan's power bound
 
-**[The Great White Throne]**
+And I saw an angel coming down from heaven, having the key of the Abyss and a huge chain on his hand. And he seized the dragon, the ancient serpent, who is a slanderer, even Satan, who deceives the whole inhabited earth, and bound him for a thousand years; he threw him into the Abyss and locked and sealed it over him so that he should not deceive the nations any more until the thousand years were finished. And after these years he must be loosed for a short time.
 
-	11 Then I saw a tremendous white throne and the One who sat on it, from whose face the earth and the sky fled away; and no place was found for them. 12 And I saw the dead, great and small, standing before the throne; and books were opened. And another Book was opened, namely, of Life. And the dead were judged according to their works, by the things that were written in the books. 13 The ocean gave up the dead who were in it, and Death and Hades gave up the dead who were in them; and they were judged each one according to their works. 14 And Death and Hades were thrown into the Lake of Fire. This is the second death, the Lake of Fire. 15 And if anyone was not found written in the Book of Life he was thrown into the Lake of Fire.
+## The Second New Covenant Vision: Victory over death guaranteed
 
-**[New heaven, new earth]**
+And I saw thrones, and they sat on them, and judgment was committed to them; also, I saw the souls of those who had been beheaded on account of the testimony of Jesus and on account of the Word of God, even those who had not worshipped the Beast or his image and had not received the mark on their forehead and on their hand. And they lived and reigned with Christ for a thousand years. (Now the rest of the dead did not come to life until the thousand years were finished.) This is the first resurrection. Blessed and holy is the one having a part in the first resurrection; upon such the second death has no power, but they will be priests of God and of Christ, and will reign with Him a thousand years.
 
-	21:1 Now I saw a new heaven and a new earth, because the first heaven and the first earth had passed away; also, the ocean was no more. 2 And I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband. 3 And I heard a loud voice from heaven saying, "Take note, the tabernacle of God is with men and He will dwell with them, and they will be His people. Yes, God Himself will be with them. 4 And He will wipe away every tear from their eyes; there will be no more death nor sorrow nor crying nor pain—they will exist no more because the first things have gone."
+## The Third New Covenant Vision: Final judgement
 
-	5 Then He who sat on the throne said, "Take note, I make everything new!" And He says to me, "Write, because these words are true and faithful!" 6 Then He said to me, "I have become the Alpha and the Omega, the Beginning and the End. To the one who thirsts I will give of the spring of the water of Life freely. 7 He who overcomes will inherit these things, and I will be God to him and he will be a son to me. 8 But as for the cowardly and unbelieving and sinners and abominable and murderers and fornicators and sorcerers and idolaters, and all who are false, their portion is in the Lake that burns with fire and brimstone, which is the second death."
+Now when the thousand years are finished Satan will be released from his prison, and he will go forth to deceive the nations that are in the four corners of the earth, Gog and Magog, to gather them together to the war, whose number is like the sand of the sea. They went up on the breadth of the earth and surrounded the camp of the saints and the beloved city. And fire came down out of heaven from God and devoured them. And the devil, who deceived them, was thrown into the Lake of Fire and brimstone, where the Beast and the False prophet also are. And they will be tormented day and night forever and ever.
 
-**[The New Jerusalem]**
+Then I saw a tremendous white throne and the One who sat on it, from whose face the earth and the sky fled away; and no place was found for them. And I saw the dead, great and small, standing before the throne; and books were opened. And another Book was opened, namely, of Life. And the dead were judged according to their works, by the things that were written in the books. The ocean gave up the dead who were in it, and Death and Hades gave up the dead who were in them; and they were judged each one according to their works. And Death and Hades were thrown into the Lake of Fire. This is the second death, the Lake of Fire. And if anyone was not found written in the Book of Life he was thrown into the Lake of Fire.
 
-	9 Then one of the seven angels who had the seven bowls full of the seven last plagues came and spoke with me saying, "Come, I will show you the woman, the Lamb's bride." 10 So he transported me in spirit to a great and high mountain and showed me the great city, the holy Jerusalem, coming down out of heaven from God, 11 having the splendor of God. Her radiance was similar to a most precious stone, like a crystalline jasper stone; 12 she had a tremendous, high wall with twelve gates, and at the gates twelve angels, and names inscribed, namely the twelve tribes of the sons of Israel; 13 looking from the east, three gates, and from the north, three gates, and from the south, three gates, and from the west, three gates. 14 And the wall of the city had twelve foundations, and on them twelve names, of the twelve apostles of the Lamb. 15 Now he who spoke with me had a measure, a golden reed, so that he might measure the city and her gates. 16 The city is laid out as a square; that is, her length is equal to her width. So he measured the city with the reed at twelve thousand and twelve stadia. Her length and width and height are equal. 17 And he measured her wall, one hundred and forty-four cubits, the measure of a man (which is of an angel). 18 The material of her wall was jasper, and the city was pure gold, like clear glass. 19 And the foundations of the wall of the city were adorned with all kinds of precious stones: the first foundation had jasper, the second sapphire, the third chalcedony, the fourth emerald, 20 the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst. 21 And the twelve gates are twelve pearls; each individual gate was composed of one pearl. And the street of the city was pure gold, like transparent glass.
+## The Fourth New Covenant Vision: All things made new
 
-**[Her glory]**
+Now I saw a new heaven and a new earth, because the first heaven and the first earth had passed away; also, the ocean was no more. And I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband. And I heard a loud voice from heaven saying,
 
-22 I saw no sanctuary in her, because the Lord God, the Almighty, and the Lamb are her sanctuary. 23 And the city has no need of the sun or the moon, that they should shine on her, because the very glory of God illumines her, and the Lamb is her light. 24 And the nations will walk in her light, and the kings of the earth bring their glory and honor into her. 25 Her gates will absolutely not be closed by day (and no night will exist there). 26 And they will bring the glory and the honor of the nations into her. 27 But anything 'common' or anyone perpetrating an abomination or a lie will absolutely not enter her; only those who are written in the Lamb's Book of Life.
+> Take note, the tabernacle of God is with men and He will dwell with them, and they will be His people. Yes, God Himself will be with them. And He will wipe away every tear from their eyes; there will be no more death nor sorrow nor crying nor pain—they will exist no more because the first things have gone.
 
+Then He who sat on the throne said, "Take note, I make everything new!" And He says to me, "Write, because these words are true and faithful!" Then He said to me,
 
-**[Her river]**
+> I have become the Alpha and the Omega, the Beginning and the End. To the one who thirsts I will give of the spring of the water of Life freely. He who overcomes will inherit these things, and I will be God to him and he will be a son to me. But as for the cowardly and unbelieving and sinners and abominable and murderers and fornicators and sorcerers and idolaters, and all who are false, their portion is in the Lake that burns with fire and brimstone, which is the second death.
 
-	22:1 And he showed me a pure river of water of life, bright as crystal, proceeding from the throne of God and of the Lamb, 2 in the middle of her street. And on either side of the river was a tree of life producing twelve fruits, yielding each month's fruit monthly; and the leaves of the tree are for the healing of the nations. 3 There will be no accursed thing there, but the throne of God and of the Lamb are in her, and His slaves will minister to Him. 4 They will see His face and His name is on their foreheads. 5 Night will not exist there and they will need neither lamp nor sunlight, because the Lord God illuminates them. And they will reign forever and ever.
+## The Fifth New Covenant Vision: The new Jerusalem and the spotless bride
 
-**[Conclusion]**
+Then one of the seven angels who had the seven bowls full of the seven last plagues came and spoke with me saying, "Come, I will show you the woman, the Lamb's bride."
 
-6 Then he says to me, "These words are faithful and true. The Lord God of the spirits of the prophets sent His angel to show to His slaves the things that must shortly take place. 7 Take note, I am coming swiftly! Blessed is the one who keeps the words of the prophecy of this book."
+So he transported me in spirit to a great and high mountain and showed me the great city, the holy Jerusalem, coming down out of heaven from God, having the splendor of God. Her radiance was similar to a most precious stone, like a crystalline jasper stone; she had a tremendous, high wall with twelve gates, and at the gates twelve angels, and names inscribed, namely the twelve tribes of the sons of Israel; looking from the east, three gates, and from the north, three gates, and from the south, three gates, and from the west, three gates. And the wall of the city had twelve foundations, and on them twelve names, of the twelve apostles of the Lamb.
 
-	8 Now I, John, who heard and saw these things, when I had heard and seen I fell down to worship at the feet of the angel who showed me these things, 9 but he says to me, "Don't! I am your fellow slave and among your brothers the prophets, those who keep the words of this book. Worship God." 10 Then he says to me, "Do not seal the words of the prophecy of this book, for the time is near.  11 He who acts unjustly let him act unjustly still, and let the filthy one be filthy still, and let the righteous one still practice righteousness, and let the holy one still be sanctified."
+Now he who spoke with me had a measure, a golden reed, so that he might measure the city and her gates. The city is laid out as a square; that is, her length is equal to her width. So he measured the city with the reed at twelve thousand and twelve stadia. Her length and width and height are equal. And he measured her wall, one hundred and forty-four cubits, the measure of a man (which is of an angel). The material of her wall was jasper, and the city was pure gold, like clear glass. And the foundations of the wall of the city were adorned with all kinds of precious stones: the first foundation had jasper, the second sapphire, the third chalcedony, the fourth emerald, the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst. And the twelve gates are twelve pearls; each individual gate was composed of one pearl. And the street of the city was pure gold, like transparent glass.
 
-**[Jesus' final word]**
+I saw no sanctuary in her, because the Lord God, the Almighty, and the Lamb are her sanctuary. And the city has no need of the sun or the moon, that they should shine on her, because the very glory of God illumines her, and the Lamb is her light. And the nations will walk in her light, and the kings of the earth bring their glory and honor into her. Her gates will absolutely not be closed by day (and no night will exist there). 26 And they will bring the glory and the honor of the nations into her. But anything 'common' or anyone perpetrating an abomination or a lie will absolutely not enter her; only those who are written in the Lamb's Book of Life.
 
-12 "Take note, I am coming swiftly, and my reward is with me to give to each one according to his work. 13 I am the Alpha and the Omega, beginning and end, the First and the Last." 14 (Blessed are those who do His commands, so that they may have the right to the tree of life, even to enter through the gates into the city. 15 Outside are the 'dogs' and the sorcerers and the fornicators and the murderers and the idolaters, and everyone who loves and practices a lie.) 16 "I, Jesus, have sent my angel to testify these things to you, in the churches. I am the root and the offspring of David, the bright morning Star. 17 Both the Spirit and the Bride say, 'Come!' And let whoever hears say, 'Come!' And let whoever thirsts come; whoever wants to, let him take the water of life free of charge.
+## The Sixth New Covenant Vision: The river of life
 
-**[A serious warning]**
+And he showed me a pure river of water of life, bright as crystal, proceeding from the throne of God and of the Lamb, in the middle of her street. And on either side of the river was a tree of life producing twelve fruits, yielding each month's fruit monthly; and the leaves of the tree are for the healing of the nations. There will be no accursed thing there, but the throne of God and of the Lamb are in her, and His slaves will minister to Him. They will see His face and His name is on their foreheads. Night will not exist there and they will need neither lamp nor sunlight, because the Lord God illuminates them. And they will reign forever and ever.
 
-	18 "I testify to everyone who hears the words of the prophecy of this book: If any one adds to them, may God add to him the seven plagues written in this book! 19 And if anyone takes away from the words of the book of this prophecy, may God remove his share from the tree of life and out of the Holy City, that stand written in this book!"
+## The Seventh New Covenant Vision: Christ comes soon to finish the old and continue renewal of all things
 
-**[John signs off]**
+Then he says to me,
 
-	20 He who testifies to these things says, "Yes, I am coming swiftly!" Oh yes!! Come, Lord Jesus!
+> These words are faithful and true. The Lord God of the spirits of the prophets sent His angel to show to His slaves the things that must shortly take place. Take note, I am coming swiftly! Blessed is the one who keeps the words of the prophecy of this book.
 
-21 The grace of the Lord Jesus Christ be with all the saints. Amen.
+Now I, John, who heard and saw these things, when I had heard and seen I fell down to worship at the feet of the angel who showed me these things, but he says to me, "Don't! I am your fellow slave and among your brothers the prophets, those who keep the words of this book. Worship God."
 
+Then he says to me,
+
+> Do not seal the words of the prophecy of this book, for the time is near. He who acts unjustly let him act unjustly still, and let the filthy one be filthy still, and let the righteous one still practice righteousness, and let the holy one still be sanctified.
+>
+> Take note, I am coming swiftly, and my reward is with me to give to each one according to his work. I am the Alpha and the Omega, beginning and end, the First and the Last.
+
+(Blessed are those who do His commands, so that they may have the right to the tree of life, even to enter through the gates into the city. Outside are the 'dogs' and the sorcerers and the fornicators and the murderers and the idolaters, and everyone who loves and practices a lie.)
+
+> I, Jesus, have sent my angel to testify these things to you, in the churches. I am the root and the offspring of David, the bright morning Star. Both the Spirit and the Bride say, 'Come!' And let whoever hears say, 'Come!' And let whoever thirsts come; whoever wants to, let him take the water of life free of charge.
+
+# Epilogue: How to read this book
+
+> I testify to everyone who hears the words of the prophecy of this book: If any one adds to them, may God add to him the seven plagues written in this book! And if anyone takes away from the words of the book of this prophecy, may God remove his share from the tree of life and out of the Holy City, that stand written in this book!
+
+He who testifies to these things says, "Yes, I am coming swiftly!" Oh yes!! Come, Lord Jesus!
+
+The grace of the Lord Jesus Christ be with all the saints. Amen.
