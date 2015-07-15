@@ -1,0 +1,48 @@
+title: Post template
+markdown: false
+
+<section>
+
+  <header>
+    <h1><a href="#!/" title="Tobias Davis" rel="home">Tobias Davis</a></h1>
+    <h2>Thoughts of a man interested in science, cryptography, theology, and people.</h2>
+    <img role="banner" alt="View of the Loveland Pass, in Colorado, USA." src="/Trail-on-Loveland-Pass-cropped.jpg">
+  </header>
+
+  <nav role="navigation" title="Main site navigation." class="menu">
+    <ul>
+      <li><a href="#!/" class="active" rel="home" title="Listing of all posts.">Posts.</a></li>
+      <li><a href="#!/about.md" title="About the site author.">Something about me.</a></li>
+      <li><a href="#!/contact.md" title="Contact the site author.">Talk to me.</a></li>
+    </ul>
+  </nav>
+
+  <article id="main">
+    <header>
+      <h1>{{metadata.title}}</h1>
+      <h2>
+        {{#metadata.update}}
+        Last updated <time datetime="{{metadata.update}}">{{metadata.update}}</time>
+        {{/metadata.update}}
+        {{#metadata.author}}
+        <br />Written by <a rel="author" title="About the author." href="#!/author/{{metadata.author}}.md">{{metadata.author}}</a>
+        {{/metadata.author}}
+      </h2>
+    </header>
+    {{{html}}}
+  </article>
+
+  <nav role="navigation" title="Main site navigation." class="posts" id="sidebar">
+    <h1>All Writings:</h1>
+    <ul>
+      {{#postList}}
+      <li><a href="{{pathPrefix}}{{pagePathPrefix}}{{filename}}">{{title}}</a></li>
+      {{/postList}}
+    </ul>
+  </nav>
+
+  <footer>
+    <p>Inspired by <a href="https://wordpress.org/themes/twentyeleven">Twenty Eleven</a>, made with love by <a href="http://tobiaslabs.com">Tobias Labs</a>.</p>
+  </footer>
+
+</section>

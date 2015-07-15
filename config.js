@@ -5,6 +5,7 @@ noddityConfig = {
 	errorPage: '404.md',
 	pathPrefix: '#!/',
 	pagePathPrefix: '',
+	template: 'post',
 	debug: false,
 	sidebar: null
 }
