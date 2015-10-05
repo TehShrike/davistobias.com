@@ -1,4 +1,4 @@
-saibotsivad.github.io
-=====================
+davistobias.com
+===============
 
-Github Pages hosted site for [davistobias.com](http://davistobias.com) and [saibotsivad.github.io](http://saibotsivad.github.io)
+Public facing website for [davistobias.com](http://davistobias.com).
