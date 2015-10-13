@@ -1,3 +1,3 @@
 [submodule "sims-age-calculator"]
 	path = sims-age-calculator
-	url = git@github.com:saibotsivad/sims-age-calculator.git
+	url = https://github.com/saibotsivad/sims-age-calculator.git
