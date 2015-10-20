@@ -225,7 +225,7 @@ who is coming."
 And whenever the living beings ascribe glory and honor and thanksgiving to Him who
 sits on the throne, to Him who lives forever and ever, the twenty-four elders fall
 down before Him who sits on the throne and worship Him who lives forever and ever,
-and they cast their crowns before the throne saying: 11 "You are worthy, our Lord
+and they cast their crowns before the throne saying: "You are worthy, our Lord
 and God, the Holy One, to receive the glory and the honor and the power, because
 You created all things, and by Your will they exist and were created!"
 
