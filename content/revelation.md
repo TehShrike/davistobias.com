@@ -4,7 +4,7 @@ date: 2015-07-06
 # Prologue: How to read this book
 
 Jesus Christ's revelation, which God gave Him to show to His slaves—the things that must
-occur shortly. And He communicated it, sending it by His angel to His slave John, who
+occur shortly. And He communicated it, sending it by His angel to His slave John, swho
 gave witness to the word of God, even the testimony of Jesus Christ—to all that He saw,
 both the things that are and those that must happen after these. Blessed is he who reads
 and those who hear the words of the prophecy and keep the things that are written in it;
@@ -676,7 +676,7 @@ And I heard another Voice from heaven saying:
 
 > The kings of the earth who fornicated and lived luxuriously with her will weep and mourn over her, when they see the smoke of her burning, standing afar off for fear of her torment, saying, "Alas, alas, O great city Babylon, O mighty city! Because your judgment came in one hour."
 >
-> And the merchants of the earth weep and sorrow over her because no one buys their goods anymore: goods of gold and of silver, of precious stones and of pearl, of fine linen and of purple, of silk and of scarlet; every citron wood and object of ivory, every object of most precious wood and of bronze and of iron and of marble; cinnamon and incense and perfume and frankincense, wine and olive oil and fine flour and wheat, cattle and sheep and horses and carriages, and bodies and souls of men! ("Yes, the fruit that your soul craved has gone from you, and all the sumptuous and splendid things have perished from you, and you will never find them again!") The merchants of these things, who became rich by her, will stand afar off for fear of her torment, weeping and sorrowing 16 and saying,
+> And the merchants of the earth weep and sorrow over her because no one buys their goods anymore: goods of gold and of silver, of precious stones and of pearl, of fine linen and of purple, of silk and of scarlet; every citron wood and object of ivory, every object of most precious wood and of bronze and of iron and of marble; cinnamon and incense and perfume and frankincense, wine and olive oil and fine flour and wheat, cattle and sheep and horses and carriages, and bodies and souls of men! ("Yes, the fruit that your soul craved has gone from you, and all the sumptuous and splendid things have perished from you, and you will never find them again!") The merchants of these things, who became rich by her, will stand afar off for fear of her torment, weeping and sorrowing and saying,
 >
 >> Alas, alas, O great city! that was clothed in fine linen and purple and scarlet, and was adorned with gold and precious stones and pearls; because in one hour such great wealth was laid waste.
 >
